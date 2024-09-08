@@ -1,3 +1,6 @@
+export default function Home() {
+  return <div>Welcome to Next.js!</div>;
+}
 document.addEventListener("DOMContentLoaded", function () {
     var _a, _b;
     var form = document.getElementById("resume-form");
